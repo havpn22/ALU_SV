@@ -1,6 +1,6 @@
 # ALU Verification
 
-**PROJECT OVERVIEW**
+**PROJECT OVERVIEW :**
 The ALU Verification project aims to test and validate a parameterized Arithmetic Logic Unit (ALU) using a SystemVerilog based testbench. The ALU supports various arithmetic and logical operations along with various flags. A constrained randomisation, coverage group is used along with components like generator, driver, monitor and scoreboard to stimulate and check the DUT. Functional and code coverage are used for testing.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
